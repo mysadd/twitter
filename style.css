@@ -1,0 +1,21 @@
+.top {
+	background:;
+	height: 60px;
+	border: 1px solid black;
+}
+.ggbet {
+	background-color: yellow;
+	height: 900px;
+}
+.minecraft {
+	background-color: red;
+	height: 900px;
+}
+.pass {
+	height: 600px;
+	background-color: orange;
+}
+.bass {
+	height: 600px;
+	background-color: blue;
+}
